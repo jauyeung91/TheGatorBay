@@ -1,0 +1,5 @@
+*.swo
+*.swp
+logs/
+tmp/
+config/app.php
